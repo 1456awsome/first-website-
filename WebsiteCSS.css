@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+header{background-color: #FB787A;
+text-align: center;
+font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+nav{text-align: right;
+padding: 5px;
+}
+.mediv{background-color: cornflowerblue;
+width: 500px;
+height: 400px;
+margin-right: 100px;
+margin-left: 100px;
+float: left;
+}
+.frienddiv{background-color: #E32E31;
+width: 500px;
+height: 400px;
+margin: 0px;
+margin-left: 200px;
+float: left;}
+img{float: right;
+}
+.frienddiv3{background-color: #E32E31;
+width: 500px;
+height: 400px;
+margin: 0px;
+margin-left: 400px;
+float: left;}
+img{float: right;
+}
+.frienddiv2{background-color: cornflowerblue;
+width: 500px;
+height: 400px;
+margin-right: 100px;
+margin-left: 150px;
+float: left;
+}
+footer{margin-top: 800px;
+background-color: #9CF5A0;
+text-align: center;
+}
